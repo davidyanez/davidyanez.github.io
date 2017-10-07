@@ -20,10 +20,11 @@ people:
 experience:
   - end_date: Current
     start_date: March 2015
-    title: Lead Software Developer
+    title: Lead Backend Software Developer
     company: Stradigi
     location: Montreal, Quebec
     image:
+    description: Work as a lead software developer for the backend development department at Stradigi, where I work in the design and development of different web services, and lead a team of backend software developers.
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
