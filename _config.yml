@@ -3,7 +3,7 @@ baseurl: /
 
 # Site settings
 title: David Yanez
-email: your-email@domain.com
+email: daveyanez2002@gmail.com
 description: "Personal Website about my career, my passion for technology and my thoughs"
 
 # Team names, titles and social links
@@ -14,20 +14,24 @@ people:
   social:
     - title: github
       url: http://github.com/davidyanez
+    - title: linkedin
+          url: https://www.linkedin.com/in/david-yanez-67328174/
+
+experience:
+  - end_date: Current
+    start_date: March 2015
+    title: Lead Software Developer
+    company: Stradigi
+    location: Montreal, Quebec
+    image:
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+      url: http://github.com/davidyanez
+  - title: linkedin
+      url: https://www.linkedin.com/in/david-yanez-67328174/
 
 # Postal address (add as many lines as necessary)
 address:
