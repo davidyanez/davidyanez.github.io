@@ -9,14 +9,13 @@ description: "Personal Website about my career, my passion for technology and my
 # Team names, titles and social links
 people:
 - name: David Yanez
-  pic: 1
+  pic: dy.jpg
   position: Lead Backend Developer
   social:
     - title: github
       url: http://github.com/davidyanez
     - title: linkedin
       url: https://www.linkedin.com/in/david-yanez-67328174/
-
 experience:
   - end_date: Current
     start_date: March 2015
@@ -25,7 +24,7 @@ experience:
       name: Stradigi
       url: https://www.stradigi.ca/
     location: Montreal, Quebec
-    image:
+    image: stradigi_logo.png
     description: Work as a lead software developer for the backend development department at Stradigi, where I work in the design and development of different web services, and lead a team of backend software developers.
 
 
