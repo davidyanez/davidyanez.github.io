@@ -26,15 +26,21 @@ experience:
     location: Montreal, Quebec
     image: stradigi_logo.png
     description: Work as a lead software developer for the backend development department at Stradigi, where I work in the design and development of different web services, and lead a team of backend software developers.
+    languages: Python, Scala,
+    databases: MySQL, Neo4j, Elasticsearch, Google DataStore
+    libs: Falcon, Apache Spark, Zappa (AWS serverless), Google App Engine, and more
+    cloud: AWS Services, Google Cloud Services
+
   - end_date: March 2015
     start_date: May 2014
     title: Software Developer
     company:
       name: Global Eagle Entertainment
-      url: https://www.geemedia.ca/
+      url: http://www.geemedia.com
     location: Montreal, Quebec
     image: gee_logo.png
     description: Software Development of the Content Management System that is used to manage content and applications for in-flight systems.
+    Languages: Python, Flask, C#, ASP.net
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
