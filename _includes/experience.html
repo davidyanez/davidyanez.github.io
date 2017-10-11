@@ -13,12 +13,12 @@
                         {% for experience in site.experience %}
                         <li class="timeline-inverted">
                             <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="img/about/1.jpg" alt="">
+                                <img class="img-circle img-responsive" src="img/experience/{{ experience.image }}" alt="{{ experience.title }}">
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
                                     <h4> {{ experience.start_date }} - {{ experience.end_date }} </h4>
-                                    <h4 class="subheading">{{ experience.title}}</h4>
+                                    <h4 class="subheading">{{ experience.title }}</h4>
                                     <h4 class="subheading"><a href="{{ experience.company.url }}"  target="_blank">{{ experience.company.name}}</a></h4>
                                 </div>
                                 <div class="timeline-body">
