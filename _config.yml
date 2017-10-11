@@ -29,6 +29,7 @@ experience:
     languages: Python, Scala,
     databases: MySQL, Neo4j, Elasticsearch, Google DataStore
     libs: Falcon, Apache Spark, Zappa (AWS serverless), Google App Engine, and more
+    tools: Git, Pycharm
     cloud: AWS Services, Google Cloud Services
 
   - end_date: March 2015
@@ -40,7 +41,11 @@ experience:
     location: Montreal, Quebec
     image: gee_logo.png
     description: Software Development of the Content Management System that is used to manage content and applications for in-flight systems.
-    Languages: Python, Flask, C#, ASP.net
+    Languages: Python, C#, ASP.net
+    databases: PostgreSQL
+    libs: Flask, Telerik
+    tools: SVN
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
