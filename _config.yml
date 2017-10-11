@@ -25,7 +25,7 @@ experience:
       url: https://www.stradigi.ca/
     location: Montreal, Quebec
     image: stradigi_logo.png
-    description: Work as a lead software developer for the backend development department at Stradigi, where I work in the design and development of different web services, and lead a team of backend software developers.
+    description: Work as the lead software developer for the backend development department at Stradigi, where I work in the design and development of different web services, and lead a team of backend software developers.
     languages: Python, Scala,
     databases: MySQL, Neo4j, Elasticsearch, Google DataStore
     libs: Falcon, Apache Spark, Zappa (AWS serverless), Google App Engine, and more
