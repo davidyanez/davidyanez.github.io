@@ -26,6 +26,16 @@ experience:
     location: Montreal, Quebec
     image: stradigi_logo.png
     description: Work as a lead software developer for the backend development department at Stradigi, where I work in the design and development of different web services, and lead a team of backend software developers.
+  - end_date: March 2015
+    start_date: May 2014
+    title: Software Developer
+    company:
+      name: Global Eagle Entertainment
+      url: https://www.geemedia.ca/
+    location: Montreal, Quebec
+    image: gee_logo.png
+    description: Software Development of the Content Management System that is used to manage content and applications for in-flight systems.
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
