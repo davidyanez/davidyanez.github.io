@@ -23,7 +23,10 @@
                                 </div>
                                 <div class="timeline-body">
                                     <p class="text-muted"> {{experience.description}} </p>
-                                    <p class="text-muted"><b>Languages:</b> {{experience.languages}} </p>
+                                    {% if experience.languages %}
+                                        <p class="text-muted"><b>Languages:</b> {{experience.languages}} </p>
+                                    {% endif %}
+
                                 </div>
                             </div>
                         </li>
