@@ -26,8 +26,8 @@ experience:
     location: Montreal, Quebec
     image: stradigi_logo.png
     description: Work as the lead software developer for the backend development department at Stradigi, where I work in the design and development of different web services, and lead a team of backend software developers.
-    languages: Python, Scala,
-    databases: MySQL, Neo4j, Elasticsearch, Google DataStore
+    languages: Python, Scala
+    databases: MySQL, Neo4j, Elasticsearch, Google DataStore, DynamoDB
     libs: Falcon, Apache Spark, Zappa (AWS serverless), Google App Engine, and more
     tools: Git, Pycharm
     cloud: AWS Services, Google Cloud Services
@@ -41,11 +41,22 @@ experience:
     location: Montreal, Quebec
     image: gee_logo.png
     description: Software Development of the Content Management System that is used to manage content and applications for in-flight systems.
-    Languages: Python, C#, ASP.net
+    Languages: Python, C#, ASP.NET
     databases: PostgreSQL
+    libs: Flask, Django, Flask, Jinja, SQLAlchemy, Telerik
+    tools: SVN, Eclipse, Pycharm, Visual Studio
+  - end_date: May 2014
+    start_date: May 2012
+    title: System Software Specialist
+    company:
+      name: CAE
+      url: http://www.cae.com
+    location: Montreal, Quebec
+    image: cae_logo.png
+    description: Solve hardware and software issues on Full Flight simulators remotely and on site.
+    Languages: C, C++
     libs: Flask, Telerik
-    tools: SVN
-
+    tools: Starteam, Visual C++
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
