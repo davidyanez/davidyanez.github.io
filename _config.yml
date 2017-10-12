@@ -70,14 +70,14 @@ experience:
     databases: Google DataStore
     libs: App Engine
     tools: Mercurial
-  - end_date: May 2012
-    start_date: May 2011
+  - end_date: April 2011
+    start_date: August 2007
     title:
     company:
       name: Silex Creations
       url: http://www.silexcreations.com
     location: Montreal, Quebec
-    image: qmining_logo.png
+    image: silex_logo.png
     description: Research and develop algorithms and applications for audio, music and speech, processing in C++ and Matlab
     Languages: Matlab, C++, Python, PHP
     databases: MySQL
