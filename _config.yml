@@ -52,7 +52,7 @@ experience:
       name: CAE
       url: http://www.cae.com
     location: Montreal, Quebec
-    image: cae_logo.png
+    image: cae_logo2.png
     description: Solve hardware and software issues on Full Flight simulators remotely and on site.
     Languages: C, C++
     libs: Flask, Telerik
