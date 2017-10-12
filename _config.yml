@@ -25,7 +25,7 @@ experience:
       url: https://www.stradigi.ca/
     location: Montreal, Quebec
     image: stradigi_logo.png
-    description: Work as the lead software developer for the backend development department at Stradigi, where I work in the design and development of different web services, and lead a team of backend software developers.
+    description: Work as the lead backend software developer for the backend development department at Stradigi, where I work in the design and development of different web services, and lead a team of backend software developers.
     languages: Python, Scala
     databases: MySQL, Neo4j, Elasticsearch, Google DataStore, DynamoDB
     libs: Falcon, Apache Spark, Zappa (AWS serverless), Google App Engine, and more
@@ -53,10 +53,24 @@ experience:
       url: http://www.cae.com
     location: Montreal, Quebec
     image: cae_logo2.png
-    description: Solve hardware and software issues on Full Flight simulators remotely and on site.
+    description: Solve hardware and software issues on Full Flight simulators remotely and on the simulator.
     Languages: C, C++
     libs: Flask, Telerik
     tools: Starteam, Visual C++
+  - end_date: May 2011
+    start_date: May 2012
+    title:
+    company:
+      name: QMining
+      url: http://www.qmining.com
+    location: Montreal, Quebec
+    image: qmining_logo.png
+    description: Develop a scalable and distributed real-time analytics system using machine learning and Google Cloud Services
+    Languages: Python
+    databases: Google DataStore
+    libs: App Engine
+    tools: Mercurial
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
