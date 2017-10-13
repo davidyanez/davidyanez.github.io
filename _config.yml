@@ -103,7 +103,7 @@ experience:
       name: Pratt & Whitey Canada
       url: http://www.pwc.ca
     location: Montreal, Quebec
-    image: .png
+    image: pwx_logo.jpg
     description: Develop data processing algorithms to monitor aircraft's turbine operations.
     Languages: Java, JSP, Visual Basic
     databases: MySQL, MS Access
