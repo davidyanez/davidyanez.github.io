@@ -25,7 +25,7 @@ experience:
       url: https://www.stradigi.ca/
     location: Montreal, Quebec
     image: stradigi_logo.png
-    description: Work as the lead backend software developer for the backend development department at Stradigi, where I work in the design and development of different web services, and lead a team of backend software developers.
+    description: Lead Backend Software Develop. I work in the design and development of different web services, data analytics application and I lead a team of backend software developers.
     languages: Python, Scala
     databases: MySQL, Neo4j, Elasticsearch, Google DataStore, DynamoDB
     libs: Falcon, Apache Spark, Zappa (AWS serverless), Google App Engine, and more
@@ -78,7 +78,7 @@ experience:
       url: http://www.silexcreations.com
     location: Montreal, Quebec
     image: silex_logo.png
-    description: Research and develop algorithms and applications for audio, music and speech, processing in C++ and Matlab
+    description: Research and develop algorithms and applications for audio, music and speech processing.
     Languages: Matlab, C++, Python, PHP
     databases: MySQL
     libs: Matlab DSP
@@ -92,6 +92,19 @@ experience:
     location: Montreal, Quebec
     image: telus_logo.png
     description: Develop Web-Application Timesheet to manage employees hours. Develop a data report systems in MS Access
+    Languages: Java, JSP, Visual Basic
+    databases: MySQL, MS Access
+    libs: Java Server Pages
+    tools: Dreamweaver, MS Access, MS Excel
+  - end_date: December 2014
+    start_date: August 2014
+    title: Software Developer
+    company:
+      name: Pratt & Whitey Canada
+      url: http://www.pwc.ca
+    location: Montreal, Quebec
+    image: .png
+    description: Develop data processing algorithms to monitor aircraft's turbine operations.
     Languages: Java, JSP, Visual Basic
     databases: MySQL, MS Access
     libs: Java Server Pages
