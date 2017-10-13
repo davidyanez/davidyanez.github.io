@@ -105,10 +105,8 @@ experience:
     location: Montreal, Quebec
     image: pwx_logo.jpg
     description: Develop data processing algorithms to monitor aircraft's turbine flight data for the P&WC’s Diagnostics, Prognostics & Health Management (DPHM) system
-    Languages: Java, JSP, Visual Basic
-    databases: MySQL, MS Access
-    libs: Java Server Pages
-    tools: Dreamweaver
+    Languages: Java
+    tools: Eclipse
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
