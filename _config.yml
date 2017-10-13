@@ -10,7 +10,7 @@ description: "Personal Website about my career, my passion for technology and my
 people:
 - name: David Yanez
   pic: dy.jpg
-  position: Lead Backend Developer
+  position: Lead Backend Software Developer
   social:
     - title: github
       url: http://github.com/davidyanez
@@ -31,7 +31,7 @@ experience:
     libs: Falcon, Apache Spark, Zappa (AWS serverless), Google App Engine, and more
     tools: Git, Pycharm
     cloud: AWS Services, Google Cloud Services
-
+    sysadmin: Linux, Apache, Nginx
   - end_date: March 2015
     start_date: May 2014
     title: Software Developer
@@ -83,6 +83,19 @@ experience:
     databases: MySQL
     libs: Matlab DSP
     tools: Mercurial, Matlab IDE
+  - end_date: Jul 2007
+    start_date: June 2006
+    title: Web Developer
+    company:
+      name: Telus
+      url: http://www.telus.com
+    location: Montreal, Quebec
+    image: telus_logo.png
+    description: Develop Web-Application Timesheet to manage employees hours. Develop a data report systems in MS Access
+    Languages: Java, JSP, Visual Basic
+    databases: MySQL, MS Access
+    libs: Java Server Pages
+    tools: Dreamweaver
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
