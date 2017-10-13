@@ -34,7 +34,7 @@ experience:
     sysadmin: Linux, Apache, Nginx
   - end_date: March 2015
     start_date: May 2014
-    title: Software Developer
+    title: Backend Software Developer
     company:
       name: Global Eagle Entertainment
       url: http://www.geemedia.com
@@ -59,7 +59,7 @@ experience:
     tools: Starteam, Visual C++
   - end_date: May 2012
     start_date: May 2011
-    title:
+    title: Backend Software Developer
     company:
       name: QMining
       url: http://www.qmining.com
@@ -72,7 +72,7 @@ experience:
     tools: Mercurial
   - end_date: April 2011
     start_date: August 2007
-    title:
+    title: Data Science and Software Developer
     company:
       name: Silex Creations
       url: http://www.silexcreations.com
@@ -96,15 +96,15 @@ experience:
     databases: MySQL, MS Access
     libs: Java Server Pages
     tools: Dreamweaver, MS Access, MS Excel
-  - end_date: December 2014
+  - end_date: January 2015
     start_date: August 2014
-    title: Software Developer
+    title: Intership Data Science
     company:
       name: Pratt & Whitey Canada
       url: http://www.pwc.ca
     location: Montreal, Quebec
     image: pwx_logo.jpg
-    description: Develop data processing algorithms to monitor aircraft's turbine operations.
+    description: Develop data processing algorithms to monitor aircraft's turbine flight data for the P&WC’s Diagnostics, Prognostics & Health Management (DPHM) system
     Languages: Java, JSP, Visual Basic
     databases: MySQL, MS Access
     libs: Java Server Pages
