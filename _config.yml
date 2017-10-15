@@ -103,7 +103,7 @@ experience:
       name: Pratt & Whitey Canada
       url: http://www.pwc.ca
     location: Montreal, Quebec
-    image: pwx_logo.jpg
+    image: pwc_logo.jpg
     description: Develop data processing algorithms to monitor aircraft's turbine flight data for the P&WC’s Diagnostics, Prognostics & Health Management (DPHM) system
     Languages: Java
     tools: Eclipse
