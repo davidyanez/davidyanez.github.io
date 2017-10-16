@@ -4,8 +4,8 @@ subtitle: Product recommendation engine for retailers
 layout: default
 modal-id: 1
 date: 2017-10-16
-img:
-thumbnail:
+img: propulse_banner1.png
+thumbnail: propulse_banner1_thumb.png
 alt: image-alt
 project-date: 2017
 client: Stradigi / Propulse Analytics
