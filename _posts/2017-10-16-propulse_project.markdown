@@ -1,11 +1,11 @@
 ---
-title: Propulse analytics
+title: Propulse Analytics
 subtitle: Product recommendation engine for retailers
 layout: default
 modal-id: 1
 date: 2017-10-16
 img: propulse_banner1.png
-thumbnail: propulse_banner1_thumb.png
+thumbnail: propulse_banner_thumb.png
 alt: image-alt
 project-date: 2017
 client: Stradigi / Propulse Analytics
