@@ -5,7 +5,7 @@ layout: default
 modal-id: 1
 date: 2017-10-16
 img: propulse_banner1.png
-thumbnail: propulse_banner_thumb.png
+thumbnail: propulse_banner-thumb.png
 alt: image-alt
 project-date: 2017
 client: Stradigi / Propulse Analytics
