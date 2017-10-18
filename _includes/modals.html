@@ -14,11 +14,11 @@
                         <div class="modal-body">
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
-                            <a href="{{ post.banner_url }}"><img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}"></a>
+                            <a href="{{ post.banner_url }}" target="_blank"><img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}"></a>
                             <p>{{ post.content }}</p>
                             <ul class="list-inline item-details">
                                 <li>Client:
-                                    <strong><a href="{{ post.client_url }}">{{ post.client }}</a>
+                                    <strong><a href="{{ post.client_url }}" target="_blank">{{ post.client }}</a>
                                     </strong>
                                 </li>
                                 <li>Date:
