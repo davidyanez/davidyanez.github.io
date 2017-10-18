@@ -10,7 +10,7 @@ alt: Propulse Analytics
 project-date: 2017
 client: Stradigi / Propulse Analytics
 category: portefolio
-
+client_url: https://www.stradigi.ca/services-2/propulse/
 ---
 
 Propulse Analytics offers a recommendation engine for e-commerce retailers.
