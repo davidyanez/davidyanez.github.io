@@ -15,7 +15,7 @@ banner_url:
 ---
 
 Qivo is a social network to share articles and media content about different topics and interests.
-I was in charge of developing the recommendation engine using different collaborative filtering
+I participated in the development of the recommendation engine using different collaborative filtering
 algorithms in order to yield personalized content recommendations for the users.
 The second system I develop was an article extraction tool that extract an article from an web page and remove
 boilerplate content.
