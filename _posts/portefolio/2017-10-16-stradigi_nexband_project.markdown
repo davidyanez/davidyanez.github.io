@@ -25,5 +25,5 @@ event happening in one of your social network, etc ... The technologies that I u
 - **Language**: Python
 - **Libraries**: Bottle (WSGI), Google App Engine
 - **Databases**: Google Data Store
-- **APIS**: IFTTT, Facebook, Instagram
+- **APIS**: IFTTT, Facebook, Instagram, and more
 - **Cloud Services**: Google Cloud Services
