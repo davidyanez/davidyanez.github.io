@@ -6,12 +6,12 @@ modal-id: nex_band_portefolio_1
 date: 2017-10-14
 img: NexBand.jpg
 thumbnail: NexBand.jpg
-alt: Qivo
+alt: The Nex Band
 project-date: 2015
 client: Stradigi / Mighty Cast
 category: portefolio
-client_url:
-banner_url:
+client_url: http://stradigi.ca
+banner_url: https://www.thenexband.com/
 ---
 
 The NEX band is a wearable device and a mobile application that can be used as a controller to control
