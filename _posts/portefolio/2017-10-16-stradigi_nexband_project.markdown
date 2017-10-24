@@ -4,8 +4,8 @@ subtitle: Smart Band
 layout: default
 modal-id: nex_band_portefolio_1
 date: 2017-10-14
-img: qivo_logo.png
-thumbnail: qivo_logo.png
+img: NexBand.jpg
+thumbnail: NexBand.jpg
 alt: Qivo
 project-date: 2015
 client: Stradigi / Mighty Cast
