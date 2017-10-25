@@ -1,6 +1,6 @@
 ---
 title: The NEX band
-subtitle: Smart Band
+subtitle: Smart Band Service Backend
 layout: default
 modal-id: nex_band_portefolio_1
 date: 2017-10-14

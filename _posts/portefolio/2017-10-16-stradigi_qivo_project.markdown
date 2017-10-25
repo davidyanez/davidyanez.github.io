@@ -1,6 +1,6 @@
 ---
 title: Qivo
-subtitle: An interest based social network
+subtitle: Recommendation system for an interest based social network
 layout: default
 modal-id: qivo_portefolio_1
 date: 2017-10-15
