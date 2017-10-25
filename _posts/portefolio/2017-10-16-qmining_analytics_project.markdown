@@ -1,5 +1,5 @@
 ---
-title: QMining
+title: QMiner
 subtitle: Web Analytics Service
 layout: default
 modal-id: qmining_analtycis
@@ -14,7 +14,10 @@ client_url: http://www.qmining.com
 banner_url: http://www.qmining.com
 ---
 
-I was responsible of the development of the backend service for a web analytics engine.
+In this project I  participated in the development of backend service for the QMiner Product.
+This product is a web service that monitors, analyze, and react to web site traffic in real time.
+The technologies that I used in this projects are:
+
 
 - **Language**: Python
 - **Libraries**: Google App engine
