@@ -4,8 +4,8 @@ subtitle: Web Analytics Service
 layout: default
 modal-id: qmining_analtycis
 date: 2014-03-01
-img: .jpg
-thumbnail: _thumb.jpg
+img: qmining_logo.jpg
+thumbnail: qmining_logo.jpg
 alt: QMining Analytics
 project-date: 2011
 client: QMining
