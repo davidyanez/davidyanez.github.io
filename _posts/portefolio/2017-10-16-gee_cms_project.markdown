@@ -14,7 +14,8 @@ client_url: http://www.geemedia.com/
 banner_url: http://www.geemedia.com/products/content
 ---
 
-
+I participated in the development of a Content Management System for inflight entertainement system.
+The technologies that I used in this project development are:
 
 - **Language**: Python, C#
 - **Libraries**: Flask, Django, Flask, Jinja, SQLAlchemy, Telerik

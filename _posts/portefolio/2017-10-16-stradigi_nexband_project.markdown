@@ -14,7 +14,7 @@ client_url: http://stradigi.ca
 banner_url: https://www.thenexband.com/
 ---
 
-The NEX band is a wearable device and a mobile application that can be used as a controller to control
+The NEX band is a wearable device and a mobile application that can be used to control
 different connected devices or applications. It also let you play and share different colorful light patterns.
 In this project I participated in the development of the backend web service for the NEX band application.
 The application communicates with different API services such as the IFTTT service and different other API and social networks,
