@@ -1,6 +1,6 @@
 ---
 title: QMiner
-subtitle: Web Analytics Service
+subtitle: Real-time Web Analytics Service
 layout: default
 modal-id: qmining_analtycis
 date: 2011-04-01
