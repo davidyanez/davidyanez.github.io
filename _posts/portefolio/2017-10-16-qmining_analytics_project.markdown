@@ -18,7 +18,6 @@ In this project I  participated in the development of backend service for the QM
 This product is a web service that monitors, analyze, and react to web site traffic in real time.
 The technologies that I used in this projects are:
 
-
 - **Language**: Python
 - **Libraries**: Google App engine
 - **Databases**:  Google Data Store
