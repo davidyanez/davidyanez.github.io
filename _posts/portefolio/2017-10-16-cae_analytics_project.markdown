@@ -1,5 +1,5 @@
 ---
-title: CAE
+title: CAE Inc.
 subtitle: Flight Simulator Software
 layout: default
 modal-id: cae_flight_simulator_support

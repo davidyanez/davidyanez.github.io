@@ -5,7 +5,7 @@ layout: default
 modal-id: nex_band_portefolio_1
 date: 2017-10-14
 img: NexBand.jpg
-thumbnail: NexBand.jpg
+thumbnail: NexBand_thumb.jpg
 alt: The Nex Band
 project-date: 2015
 client: Stradigi / Mighty Cast
