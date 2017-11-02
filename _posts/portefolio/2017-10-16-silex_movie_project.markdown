@@ -1,6 +1,6 @@
 ---
 title: Silex Creations.
-subtitle: R&D: Movies Audio Track Information Retrieval
+subtitle: R&D - Movies Audio Track Information Retrieval
 layout: default
 modal-id: silex_movie
 date: 2010-01-01
