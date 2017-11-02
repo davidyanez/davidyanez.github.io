@@ -5,7 +5,7 @@ layout: default
 modal-id: qmining_analtycis
 date: 2011-04-01
 img: qminer_logo1.png
-thumbnail: qminer_logo1.png
+thumbnail: qminer_logo.png
 alt: QMining Analytics
 project-date: 2011
 client: QMining
