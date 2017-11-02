@@ -4,8 +4,8 @@ subtitle: R&D: Movies Audio Track Information Retrieval
 layout: default
 modal-id: silex_movie
 date: 2010-01-01
-img: silex_movie.jpg
-thumbnail: silex_movie.jpg
+img: silex_movie_signals.jpg
+thumbnail: silex_movie_signals.jpg
 alt: Movies Audio Track Information Retrieval
 project-date: 2010
 client: Silex Creations
