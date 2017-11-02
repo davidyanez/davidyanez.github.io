@@ -10,8 +10,8 @@ alt: Movies Audio Track Information Retrieval
 project-date: 2010
 client: Silex Creations
 category: portefolio
-client_url: http://silexcreations.com/
-banner_url: http://silexcreations.com/
+client_url: http://silexcreations.com
+banner_url: http://silexcreations.com
 ---
 
 Research and develop algorithms to retreive information from movies audio tracks with the following features:
