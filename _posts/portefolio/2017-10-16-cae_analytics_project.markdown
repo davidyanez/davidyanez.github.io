@@ -5,7 +5,7 @@ layout: default
 modal-id: cae_flight_simulator_support
 date: 2012-04-01
 img: cae_ffs1.jpg
-thumbnail: cae_ffs1.jpg
+thumbnail: cae_ffs1_thumb.jpg
 alt: CAE Flight Simulation
 project-date: 2012
 client: CAE
