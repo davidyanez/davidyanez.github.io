@@ -5,7 +5,7 @@ layout: default
 modal-id: qivo_portefolio_1
 date: 2017-10-15
 img: qivo_logo.png
-thumbnail: qivo_logo.png
+thumbnail: qivo_logo_thumb.png
 alt: Qivo
 project-date: 2016
 client: Stradigi / Qivo
