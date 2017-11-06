@@ -14,7 +14,7 @@ client_url: http://www.telus.com/
 banner_url: http://www.telus.com/
 ---
 
-Developped a Web-based time-tracking application specialized for the Telus Mobility field operations.
+Developped a Web-based time-tracking application specialized for the Telus Mobility field's operations. 
 
 - **Language**: Java
 - **Libraries**: Java Server Pages
