@@ -14,6 +14,8 @@ client_url: http://www.pwc.ca/
 banner_url: http://www.pwc.ca/en/service-support/flight-data-management-analysis
 ---
 
-Worked in the WebECTM project.
+As part of an Intership, I worked in the Pratt & Whiteney WebECTM product, which is an aircraft turbine engine condition trend monitoring software
+I participated in the research and development of the algorithms used in the software, to provide trend analysis on aircraft turbine data.
+
 
 - **Language**: Java
