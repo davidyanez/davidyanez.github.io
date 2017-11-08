@@ -6,7 +6,7 @@ modal-id: pwc_2004
 date: 2004-01-01
 img: pwc_fdma.jpg
 thumbnail: pwc_fdma.jpg
-alt: Telus Mobility
+alt: Pratt & Whiteney
 project-date: 2004
 client: Pratt & Whitney Canada
 category: portefolio
