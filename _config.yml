@@ -104,7 +104,7 @@ experience:
       url: http://www.pwc.ca
     location: Montreal, Quebec
     image: pwc_logo.jpg
-    description: Develop data processing algorithms to monitor aircraft's turbine flight data for the P&WC’s Diagnostics, Prognostics & Health Management (DPHM) system
+    description: Develop data processing algorithms to monitor aircraft's turbine flight data for the P&WC’s trend data monitoring system WebECTM.
     Languages: Java
     tools: Eclipse
 
