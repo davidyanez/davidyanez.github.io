@@ -107,6 +107,28 @@ experience:
     description: Develop data processing algorithms to monitor aircraft's turbine flight data for the P&WC’s trend data monitoring system WebECTM.
     Languages: Java
     tools: Eclipse
+education:
+  - school: ETS, University of Quebec
+    website: https://en.etsmtl.ca/
+    degree: Master of Engineering (M.Eng)
+    field: Computer Software Engineering
+    start_date: 2011
+    end_date: 2014
+    Grade: 3.69 / 4.3
+    logo:  ets_logo.png
+  - school: Concordia University
+    website: https://www.concordia.ca/
+    degree: Bachelor of Engineering (B.Eng)
+    field: Electrical and Electronics Engineering
+    start_date: 2003
+    end_date: 2007
+    Grade: 3.6 / 4.3
+    logo:  concordia_logo.png
+
+
+
+
+
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
