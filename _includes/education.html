@@ -13,37 +13,15 @@
                         {% for education in site.education %}
                         <li class="timeline-inverted">
                             <div class="timeline-image">
-                                <a href="{{ education.company.url }}"  target="_blank">
+                                <a href="{{ education.website }}"  target="_blank">
                                     <img class="img-circle img-responsive" src="img/education/{{ education.logo }}" alt="{{ education.school }}">
                                 </a>
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
                                     <h4 class="subheading">{{ education.degree }}, {{ education.field }}</h4>
-                                    <h4 class="subheading"><a href="{{ education.company.url }}"  target="_blank">{{ education.school }}</a></h4>
+                                    <h4 class="subheading"><a href="{{ education.website }}"  target="_blank">{{ education.school }}</a></h4>
                                     <h5 class="subheading"> {{ education.start_date }} - {{ education.end_date }} </h5>
-                                </div>
-                                <div class="timeline-body">
-                                    <p class="text-muted"> {{education.description}} </p>
-                                    <!--{% if education.languages %}-->
-                                        <!--<p class="text-muted"><b>Languages:</b> {{education.languages}} </p>-->
-                                    <!--{% endif %}-->
-                                    <!--{% if education.databases %}-->
-                                    <!--<p class="text-muted"><b>Databases:</b> {{education.databases}} </p>-->
-                                    <!--{% endif %}-->
-                                    <!--{% if education.libs %}-->
-                                    <!--<p class="text-muted"><b>Libraries/Framework:</b> {{education.libs}} </p>-->
-                                    <!--{% endif %}-->
-                                    <!--{% if education.tools %}-->
-                                    <!--<p class="text-muted"><b>Dev tools:</b> {{education.tools}} </p>-->
-                                    <!--{% endif %}-->
-                                    <!--{% if education.cloud %}-->
-                                    <!--<p class="text-muted"><b>Cloud Services:</b> {{education.cloud}} </p>-->
-                                    <!--{% endif %}-->
-                                    <!--{% if education.sysadmin %}-->
-                                    <!--<p class="text-muted"><b>Sys Admin:</b> {{education.sysadmin}} </p>-->
-                                    <!--{% endif %}-->
-
                                 </div>
                             </div>
                         </li>
