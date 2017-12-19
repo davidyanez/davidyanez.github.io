@@ -18,13 +18,14 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "././mail/contact_me.php",
+                url: "https://5974h4buxg.execute-api.us-east-1.amazonaws.com/dev/api/1.0/contact_me",
                 type: "POST",
                 data: {
                     name: name,
                     phone: phone,
                     email: email,
-                    message: message
+                    message: message,
+                    subject: "davidyanez.pro Contact Form"
                 },
                 cache: false,
                 success: function() {
