@@ -20,12 +20,6 @@ $(function() {
             $.ajax({
                 url: "https://5974h4buxg.execute-api.us-east-1.amazonaws.com/dev/api/1.0/contact_me",
                 type: "POST",
-                data_type: "json",
-                beforeSend: function(x) {
-                    if (x && x.overrideMimeType) {
-                        x.overrideMimeType("application/j-son;charset=UTF-8");
-                    }
-                },
                 data: {
                     name: name,
                     phone: phone,
