@@ -20,7 +20,7 @@ $(function() {
             $.ajax({
                 url: "https://5974h4buxg.execute-api.us-east-1.amazonaws.com/dev/api/1.0/contact_me",
                 type: "POST",
-                headers: {'Access-Control-Allow-Origin': '*'},
+                // headers: {'Access-Control-Allow-Origin': '*'},
                 data: {
                     name: name,
                     phone: phone,
